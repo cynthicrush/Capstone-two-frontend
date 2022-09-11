@@ -1,0 +1,16 @@
+/* @import '~bootstrap/dist/css/bootstrap.css'; */
+.section-title {
+  padding: 60px 0;
+}
+.order-btn {
+  background: #cda45e;
+  border: 0;
+  padding: 10px 35px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+  margin-top: 10px;
+}
+.order-btn:hover {
+  background: #caad7c;
+}
