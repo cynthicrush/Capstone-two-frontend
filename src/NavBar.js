@@ -22,6 +22,7 @@ function NavBar({ logout }) {
                             <li><a className="nav-link scrollto" href="/dishes">Dishes</a></li>
                             <li><a className="nav-link scrollto" href="/login">Log In</a></li>
                             <li><a className="nav-link scrollto" href="/signup">Sign Up</a></li>
+                            {/* <li><i class="fa fa-shopping-cart" style="font-size:48px;color:red"></i></li> */}
                         </ul>
                         :
                             <ul>
@@ -31,7 +32,6 @@ function NavBar({ logout }) {
                             </ul>
                     }
                     
-                
                 </nav>
             </div>
         </header>

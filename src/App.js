@@ -13,6 +13,7 @@ import Homepage from './Homepage';
 import SignupForm from './auth/SignupForm';
 import LoginForm from './auth/LoginForm';
 import DishPage from './dishes/DishPage';
+import CartPage from './cart/CartPage';
 import DishDetail from './dishes/DishDetail';
 import JensKitchenApi from './Api';
 import LocalStorage from './helpers/LocalStorage';
